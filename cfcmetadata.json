@@ -7,7 +7,7 @@
 		"MWC": "PAC",
 		"AAC": "GWC"
 	},
-	"baseYear": 2023,
+	"baseYear": 2024,
 	"relegationRoutes": {
 		"SEC": "SUN",
 		"B10": "MAC",
@@ -292,7 +292,7 @@
 						"FLO": "World's Largest Cocktail Party",
 						"GT": "Clean Old-Fashioned Hate"
 					},
-					"prestige": "94",
+					"prestige": "95",
 					"hexColor": "#BA0C2F"
 				},
 				{
@@ -348,7 +348,7 @@
 						"LSU": "Battle for the Golden Boot",
 						"TUL": "Battle for the Rag"
 					},
-					"prestige": "86",
+					"prestige": "88",
 					"hexColor": "#461D7C"
 				},
 				{
@@ -403,7 +403,7 @@
 						"ALA": "Third Saturday in October",
 						"VAND": "Rivarly Game"
 					},
-					"prestige": "81",
+					"prestige": "84",
 					"hexColor": "#FF8200"
 				},
 				{
